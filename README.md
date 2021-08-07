@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JavGnarcia
-- 👀 I’m interested in photograhy, specifically film. 
+- 👀 I’m interested in Coding, and learning the foundation of what we use with the technology we have today
 - 🌱 I’m currently learning how to be a Back End Software Developer
 - 📫 How to reach me https://www.linkedin.com/feed/
 
